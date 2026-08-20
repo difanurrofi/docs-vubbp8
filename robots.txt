@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-w9bezs.cuansalam.cfd/sitemap.xml
